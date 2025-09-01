@@ -1,0 +1,22 @@
+
+# Backend (Spring Boot)
+target/
+*.log
+
+# Frontend (React)
+node_modules/
+build/
+dist/
+
+# IDE files
+*.iml
+.idea/
+*.classpath
+*.project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
